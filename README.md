@@ -1,4 +1,4 @@
-#  About : Computer Applications Professional (MCA)<br> Trailblazing in Technology, Driven by IT Excellence.  <br>Focused on learning, growth, and continuous improvement.  <br>Passionate about creating impactful solutions.<br>"Excited to begin my IT journey with confidence and dedication."<br>
+# 🌿 About : <br>Computer Applications Professional (MCA)<br> Trailblazing in Technology, Driven by IT Excellence.  <br>Focused on learning, growth, and continuous improvement.  <br>Passionate about creating impactful solutions.<br>"Excited to begin my IT journey with confidence and dedication."<br>
 
 
 ## 🌐 Socials:
