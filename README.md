@@ -1,5 +1,4 @@
-# 💫 About Me:
-<br>MCA graduate and want become IT professional.  <br>Focused on learning, growth, and continuous improvement.  <br>Passionate about creating impactful solutions.<br>"Excited to begin my IT journey with confidence and dedication."<br>
+# 💫 About Computer Applications Professional (MCA) Trailblazing in Technology, Driven by IT Excellence.  <br>Focused on learning, growth, and continuous improvement.  <br>Passionate about creating impactful solutions.<br>"Excited to begin my IT journey with confidence and dedication."<br>
 
 
 ## 🌐 Socials:
