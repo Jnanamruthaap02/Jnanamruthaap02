@@ -3,6 +3,9 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=JnanamruthaAP&color=blue&style=flat-square)
+
+
 🌱 Advancing my expertise in **Artificial Intelligence (AI)**, **Machine Learning (ML)** and **Data Analytics**  
 
 💻 Developing innovative projects combining **AI**, **Cloud**, and **Web Technologies** to deliver scalable, data-driven solutions.  
@@ -16,6 +19,9 @@
 📄 My Resume  : [Jnanamrutha A P](https://drive.google.com/file/d/1sFItU26U-sUBnpLK-AanbSl-YIVI1VxQ/view?usp=drive_link)  
 
 🔗   LinkedIn Profile : [LinkedIn](https://linkedin.com/in/jnanamrutha)      |      GitHub Profile :  [GitHub](https://github.com/JnanamruthaAP)
+
+
+
 
 
 ### 💼 Experience
