@@ -1,19 +1,61 @@
-# 🎗️  About : <br> -> Computer Applications Professional (MCA)<br>-> Trailblazing in Technology, Driven by IT Excellence.  <br>-> Focused on learning, growth, and continuous improvement.  <br> ->  Passionate about creating impactful solutions.<br>-> "Excited to begin my IT journey with confidence and dedication."<br>
-
-
-
-
-# 🌐 Socials :
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dulcesoulofmine) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jnanamrutha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jnanamruthaap02@gmail.com) 
-
-# 💻 Tech Stack :
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
-# 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=jnanamruthaap02&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jnanamruthaap02&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jnanamruthaap02&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">Hi 👋, I'm Jnanamrutha A P</h1>
+<h3 align="center">Aspiring AI & Data Analyst | Passionate MCA Graduate from India 🇮🇳</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jnanamruthaap02&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🌱 I’m currently learning **Artificial Intelligence, Machine Learning, and Data Analytics**
+
+💻 I’m working on projects related to **AI, Cloud, and Web Development**
+
+🎯 My goal is to become a **Data Analyst & AI Analyst**, building intelligent and impactful solutions
+
+📚 I’m also exploring **SQL, Python, and Visualization Tools (Power BI / Tableau)**
+
+📫 Reach me at: **jnanamruthaa@gmail.com**
+
+📄 Check out my resume here → [My Resume](#)
+
+---
+
+### 🧠 Skills & Technologies
+
+**Languages:**  
+`Python` `Java` `SQL` `HTML` `CSS` `JavaScript`
+
+**AI & Data Tools:**  
+`NumPy` `Pandas` `Matplotlib` `Scikit-learn` `Power BI` `Tableau`
+
+**Web Development:**  
+`Node.js` `Express` `MySQL` `HTML5` `CSS3` `JavaScript`
+
+**Other Tools & Platforms:**  
+`Git` `GitHub` `MongoDB Atlas` `MySQL Workbench` `Figma` `Canva` `VS Code`
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JnanamruthaAP&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JnanamruthaAP&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌟 Connect with me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/jnanamrutha-ap/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
+<a href="mailto:jnanamruthaa@gmail.com" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://github.com/JnanamruthaAP" target="blank">
+  <img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+</p>
+
+---
+
+✨ *“Driven by curiosity, powered by learning — building a career in AI and Data to make smarter decisions for the future.”* ✨
