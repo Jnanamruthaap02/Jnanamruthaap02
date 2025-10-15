@@ -1,35 +1,58 @@
 <h1 align="center">Hi 👋, I'm Jnanamrutha A P</h1>
-<h3 align="center">Aspiring AI & Data Analyst | Passionate MCA Graduate from India 🇮🇳</h3>
+<h3 align="center">Aspiring AI & Data Analyst | MCA Graduate | Passionate About Building Intelligent Solutions 💡</h3>
 
 ---
 
-🌱 I’m currently learning **Artificial Intelligence, Machine Learning, and Data Analytics**
+🌱 I’m currently advancing my expertise in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Data Analytics**  
 
-💻 I’m working on projects related to **AI, Cloud, and Web Development**
+💻 I’m engaged in developing innovative projects that combine **AI**, **Cloud**, and **Web Technologies** to deliver scalable, data-driven applications  
 
-🎯 My goal is to become a **Data Analyst & AI Analyst**, building intelligent and impactful solutions
+🎯 My goal is to grow as a skilled **Data Analyst and AI Analyst**, applying analytical insights to solve real-world challenges  
 
-📚 I’m also exploring **SQL, Python, and Visualization Tools (Power BI / Tableau)**
+📚 I’m deepening my knowledge in **Python**, **SQL**, and **Data Visualization tools** such as **Power BI** and **Tableau**  
 
-📫 Reach me at: **jnanamruthaa@gmail.com**
-
-📄 Check out my resume here → [JnanamruthaAP Resume](https://drive.google.com/file/d/1sFItU26U-sUBnpLK-AanbSl-YIVI1VxQ/view?usp=drive_link)
+📫 Reach me at: **jnanamruthaap02@gmail.com**  
+📄 [View My Resume](https://drive.google.com/file/d/1sFItU26U-sUBnpLK-AanbSl-YIVI1VxQ/view?usp=drive_link)  
+🔗 [LinkedIn](https://linkedin.com/in/jnanamrutha) | [GitHub](https://github.com/JnanamruthaAP)
 
 ---
 
-### 🧠 Skills & Technologies
+### 💼 Experience
 
-**Languages:**  
-`Python` `Java` `SQL` `HTML` `CSS` `JavaScript`
+**AI and Data Intern – Sherpa Vector Pvt. Ltd.** *(Mar 2025 – Jun 2025)*  
+- Built a **full-stack e-commerce application** (Niva Project) using **Node.js**, **Express.js**, and **MySQL**.  
+- Created **RESTful APIs**, integrated secure image uploads, and optimized backend performance.  
+- Designed **UI/UX prototypes** in Figma and collaborated with teams to deliver production-ready solutions.  
 
-**AI & Data Tools:**  
-`NumPy` `Pandas` `Matplotlib` `Scikit-learn` `Power BI` `Tableau`
+---
 
-**Web Development:**  
-`Node.js` `Express` `MySQL` `HTML5` `CSS3` `JavaScript`
+### 🚀 Projects
 
-**Other Tools & Platforms:**  
-`Git` `GitHub` `MongoDB Atlas` `MySQL Workbench` `Figma` `Canva` `VS Code`
+#### 🧠 Real-Time Face Attendance System  
+- Implemented facial recognition using **Python**, **OpenCV**, and **face-recognition** library.  
+- Automated attendance tracking with **Firebase** integration and **Flask** web interface.
+
+#### 🛍️ Niva Project (E-commerce Application)  
+- Developed using **Node.js**, **Express.js**, **EJS**, and **MySQL**.  
+- Streamlined vendor and customer operations through efficient database design and UI flow.
+
+---
+
+### 🧠 Technical Skills
+
+**Languages:** `Python` `JavaScript` `SQL`  
+**Web Development:** `Node.js` `Express.js` `MySQL` `HTML5` `CSS3`  
+**AI & Data Tools:** `NumPy` `Pandas` `Scikit-learn` `OpenCV` `Power BI` `Tableau`  
+**Other Tools:** `Git` `GitHub` `Figma` `Canva` `VS Code`  
+
+---
+
+### 🏅 Certifications
+
+- Microsoft Certified: **Azure Fundamentals**  
+- **SQL Essentials**  
+- **MongoDB for Developers**  
+- **R Programming**
 
 ---
 
@@ -42,20 +65,4 @@
 
 ---
 
-### 🌟 Connect with me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/jnanamrutha-ap/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-</a>
-<a href="mailto:jnanamruthaa@gmail.com" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://github.com/JnanamruthaAP" target="blank">
-  <img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
-</a>
-</p>
-
----
-
-✨ *“Driven by curiosity, powered by learning — building a career in AI and Data to make smarter decisions for the future.”* ✨
+✨ *“Driven by curiosity, powered by learning — building a career in AI and Data to make smarter, more meaningful decisions.”* ✨
