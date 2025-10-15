@@ -13,7 +13,7 @@
 
 📫 Reach me at: **jnanamruthaa@gmail.com**
 
-📄 Check out my resume here → [My Resume](#)
+📄 Check out my resume here → JnanamruthaAP
 
 ---
 
