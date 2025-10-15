@@ -1,25 +1,26 @@
 <h1 align="center">Hi 👋, I'm Jnanamrutha A P</h1>
-<h3 align="center">Aspiring AI & Data Analyst | MCA Graduate | Passionate About Building Intelligent Solutions 💡</h3>
+<h3 align="center">Aspiring IT Professional  | MCA Graduate | </h3>
 
 ---
 
-🌱 I’m currently advancing my expertise in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Data Analytics**  
+🌱 Advancing my expertise in **Artificial Intelligence (AI)**, **Machine Learning (ML)** and **Data Analytics**  
 
-💻 I’m engaged in developing innovative projects that combine **AI**, **Cloud**, and **Web Technologies** to deliver scalable, data-driven applications  
+💻 Developing innovative projects combining **AI**, **Cloud**, and **Web Technologies** to deliver scalable, data-driven solutions.  
 
-🎯 My goal is to grow as a skilled **Data Analyst and AI Analyst**, applying analytical insights to solve real-world challenges  
+🎯 Aspiring Python Developer and Exploring Python, AI & ML , Committing Code, Building Solutions.  
 
-📚 I’m deepening my knowledge in **Python**, **SQL**, and **Data Visualization tools** such as **Power BI** and **Tableau**  
+📚 Strengthening skills in **Python**, **SQL**, **AWS**.
 
-📫 Reach me at: **jnanamruthaap02@gmail.com**  
-📄 [View My Resume](https://drive.google.com/file/d/1sFItU26U-sUBnpLK-AanbSl-YIVI1VxQ/view?usp=drive_link)  
-🔗 [LinkedIn](https://linkedin.com/in/jnanamrutha) | [GitHub](https://github.com/JnanamruthaAP)
+📫 Reach me at    : **jnanamruthaap02@gmail.com**  
 
----
+📄 My Resume  : [Jnanamrutha A P](https://drive.google.com/file/d/1sFItU26U-sUBnpLK-AanbSl-YIVI1VxQ/view?usp=drive_link)  
+
+🔗   LinkedIn Profile : [LinkedIn](https://linkedin.com/in/jnanamrutha)      |      GitHub Profile :  [GitHub](https://github.com/JnanamruthaAP)
+
 
 ### 💼 Experience
 
-**AI and Data Intern – Sherpa Vector Pvt. Ltd.** *(Mar 2025 – Jun 2025)*  
+**AI and Data Intern – Sherpa Vector Pvt. Ltd.** *(Mar 2025 – July 2025)*  
 - Built a **full-stack e-commerce application** (Niva Project) using **Node.js**, **Express.js**, and **MySQL**.  
 - Created **RESTful APIs**, integrated secure image uploads, and optimized backend performance.  
 - Designed **UI/UX prototypes** in Figma and collaborated with teams to deliver production-ready solutions.  
@@ -40,16 +41,16 @@
 
 ### 🧠 Technical Skills
 
-**Languages:** `Python` `JavaScript` `SQL`  
-**Web Development:** `Node.js` `Express.js` `MySQL` `HTML5` `CSS3`  
-**AI & Data Tools:** `NumPy` `Pandas` `Scikit-learn` `OpenCV` `Power BI` `Tableau`  
-**Other Tools:** `Git` `GitHub` `Figma` `Canva` `VS Code`  
+**Languages           :** `Python` `JavaScript` `SQL`  
+**Web Development     :** `Node.js` `Express.js` `MySQL` `HTML5` `CSS3`  
+**AI & Data Tools     :** `NumPy` `Pandas` `Scikit-learn` `OpenCV` `Power BI` `Tableau`  
+**Other Tools         :** `Git` `GitHub` `Figma` `Canva` `VS Code`  
 
 ---
 
 ### 🏅 Certifications
 
-- Microsoft Certified: **Azure Fundamentals**  
+- Microsoft Certified    : **Azure Fundamentals**  
 - **SQL Essentials**  
 - **MongoDB for Developers**  
 - **R Programming**
