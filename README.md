@@ -13,7 +13,7 @@
 
 📫 Reach me at: **jnanamruthaa@gmail.com**
 
-📄 Check out my resume here → JnanamruthaAP
+📄 Check out my resume here → [JnanamruthaAP Resume](https://drive.google.com/file/d/1sFItU26U-sUBnpLK-AanbSl-YIVI1VxQ/view?usp=drive_link)
 
 ---
 
