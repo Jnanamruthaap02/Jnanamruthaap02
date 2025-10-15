@@ -8,8 +8,6 @@
 
 🌱 Advancing my expertise in **Artificial Intelligence (AI)**, **Machine Learning (ML)** and **Data Analytics**  
 
-💻 Developing innovative projects combining **AI**, **Cloud**, and **Web Technologies** to deliver scalable, data-driven solutions.  
-
 🎯 Aspiring Python Developer and Exploring Python, AI & ML , Committing Code, Building Solutions.  
 
 📚 Strengthening skills in **Python**, **SQL**, **AWS**.
