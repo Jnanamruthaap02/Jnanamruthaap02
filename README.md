@@ -12,11 +12,11 @@
 
 📚 Strengthening skills in **Python**, **SQL**, **AWS**.
 
-📫 Reach me at    : **jnanamruthaap02@gmail.com**  
+📫 Reach me at    : **jnanamruthaap30@gmail.com**  
 
 📄 My Resume  : [Jnanamrutha A P](https://drive.google.com/file/d/1sFItU26U-sUBnpLK-AanbSl-YIVI1VxQ/view?usp=drive_link)  
 
-🔗   LinkedIn Profile : [LinkedIn](https://linkedin.com/in/jnanamrutha)      |      GitHub Profile :  [GitHub](https://github.com/JnanamruthaAP)
+🔗   LinkedIn Profile : [LinkedIn](https://www.linkedin.com/in/jnanamruthaap30/)      |      GitHub Profile :  [GitHub](https://github.com/JnanamruthaAP)
 
 
 
